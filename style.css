@@ -89,7 +89,7 @@ i {
 
 .bg-home::before {
   content: "";
-  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("../asset/bg.svg");
+  background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #06121e), url("./asset/bg.svg");
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
